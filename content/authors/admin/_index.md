@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Prakhar Rathi
+title: Yoshee Jain
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist
+role: Junior (Undergraduate) at the U of I
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: American Express
+- name: University of Illinois, Urbana-Champaign
   url: https://www.americanexpress.com/en-in/
 
 # Short bio (displayed in user profile at end of posts)
