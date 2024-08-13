@@ -6,36 +6,34 @@ title: Yoshee Jain
 superuser: true
 
 # Role/position/tagline
-role: Junior (Undergraduate) at the U of I
+role: Junior
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Illinois, Urbana-Champaign
-  url: https://www.americanexpress.com/en-in/
+  url: https://siebelschool.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a data scientist with a passion for creating innovative solutions to complex problems.
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Computational Social Science
+- Human Computer Interaction
+- AI in Education
 - Natural Language Processing 
+- Computational Social Science
 - Machine Learning
-- Data Engineering
+- Data Science
 
 # Education to show in About widget
 education:
   courses:
-#   - course: MSc, Financial Engineering
-#     institution: WorldQuant University
-#     year: 2022-Present
-  - course: B.Tech in Computer Science and Engineering
-    institution: Shiv Nadar University
-    year: 2018-2022
-  - course: Summer Institute in Computational Social Science 
-    institution: International Institute of Information Technology, Hyderabad 
-    year: 2022
+  - course: BS in Computer Science
+    institution: University of Illinois, Urbana-Champaign
+    year: 2022-Present
+  - course: BS in Statistics
+    institution: University of Illinois, Urbana-Champaign
+    year: 2024-Present
 
  
 
@@ -46,38 +44,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pr440@snu.edu.in'
+  link: 'mailto:yosheej2@illinois.edu'
 - icon: github
   icon_pack: fab
-  link: https://github.com/prakharrathi25
+  link: https://github.com/YosheeJain
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/prakhar-rathi/
-- icon: kaggle
-  icon_pack: fab
-  link: https://www.kaggle.com/prakharrathi25/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/prakharrathi14
-- icon: medium 
-  icon_pack: fab
-  link: https://medium.com/@prakharrathi
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://www.linkedin.com/in/yosheejain/
+- icon: google-scholar  
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=HSgotCcAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pr440@snu.edu.in"
+email: "yosheej2@illinois.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a data scientist with a passion for creating innovative solutions to complex problems. I am a graduate from Shiv Nadar University, India. I majored in Computer Science Engineering with a minor in Economics.
